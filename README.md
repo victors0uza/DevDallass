@@ -1,33 +1,28 @@
 ### Olá! Eu sou o Victor Sousa🤙
 #### Jovem iniciante no mundo da programação, cursando o segundo semestre de ADS (Analise e Desenvolvimento de Sistemas) ampliando conhecimento na area de programação
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDallass&show_icons=true&theme=tokyonight)
-
-
+## Conecte-se comigo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-sousa-53b75954/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Complete-Specialist4)
 [![stackoverflow](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](vito_souza10@hotmail.com)
 [![Deviantart](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/devdallass)
 
 
-<div style="display: inline_block"><br/>
- <img align="center" alt=html height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
- <img align="center" alt=html height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
- <img align="center" alt=html height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-</div>
+## Github Stats
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victors0uza&show_icons=true&theme=dracula)
+
+## Habilidades
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victors0uza&exclude&bg_true&theme=dracula)
 
 
-<!--
-**DevDallass/DevDallass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Linguagens de Programação
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 
-Here are some ideas to get you started:
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+
+
+##
